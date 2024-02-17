@@ -8,5 +8,5 @@ HR-Analytics- Dashboard-Using-Tableau
 
 
 
-Link:![image](https://github.com/AnupamkumariAkr/HR-Analytics-Dashboard-Using---Tableau/assets/157566167/0a92ab48-ef33-4180-8723-fba2da3592e1)
+Links:
 
