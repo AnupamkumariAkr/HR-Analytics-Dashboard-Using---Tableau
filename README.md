@@ -1,3 +1,4 @@
+# HR-Analytics-Dashboard-Using-Tableau
 
 
 <p align="center">
@@ -90,9 +91,7 @@ This includes trendline and target line to help HR managers track progress towar
 
 
 
-    ![hr dashboard image](https://github.com/AnupamkumariAkr/HR-Analytics-Dashboard-Using---Tableau/assets/157566167/da5c7b37-b0c6-43b6-a84a-aad0ae677eb9)# HR-Analytics-Dashboard-Using- 
-     Tableau
-
+  
    
      
      
