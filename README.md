@@ -75,7 +75,8 @@ This includes trendline and target line to help HR managers track progress towar
 
     ## DASHBOARD:
 
-    [hr dashboard image](https://github.com/AnupamkumariAkr/HR-Analytics-Dashboard-Using---Tableau/assets/157566167/6f7f4e20-9104-47b6-b8a4-acd2a7910bdf)                                   
+    [hr dashboard image]                                  
 
+![Uploading hr dashboard image.png…]()
 
 
