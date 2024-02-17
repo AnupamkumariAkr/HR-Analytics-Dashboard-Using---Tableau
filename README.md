@@ -19,3 +19,6 @@ Lets Connect
 {Go to my Dashboard}(https://public.tableau.com/views/HRANALYTICSDASHBOARD1_17073035960630/HRANALYTICSDASHBOARD?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
 
+ABOUT PROJECT:
+
+
