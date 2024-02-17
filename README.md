@@ -118,6 +118,12 @@ I have uploaded all the files, datasets, workbook, icons above. Feel free to use
 anupam-kumari-5717ab214
 /) 🌐
 
+ [Github Profile](https://github.com/AnupamkumariAkr) 🧮
+
+- [Linkedin](https://www.linkedin.com/in/
+anupam-kumari-5717ab214
+/) 🤝
+
 
 
 
