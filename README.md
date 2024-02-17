@@ -30,7 +30,13 @@ This includes trendline and target line to help HR managers track progress towar
     • Tableau 📊
 
     • Statistics 📜
+## STEPS OVERVIEW:
 
+1) Data subset collected from online.
+2) Understanding the Data.
+3) Loading Libraries.
+4) Data Cleaning & Finding Missing values.
+5) Data Visualization.
 
 
 
