@@ -77,6 +77,19 @@ This includes trendline and target line to help HR managers track progress towar
 
     [hr dashboard image]                                  
 
-![Uploading hr dashboard image.png…]()
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     ![Uploading hr dashboard image.png…]()
 
 
