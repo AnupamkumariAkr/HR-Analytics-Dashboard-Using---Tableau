@@ -1,4 +1,4 @@
-# HR-Analytics-Dashboard-Using-Tableau
+![hr dashboard image](https://github.com/AnupamkumariAkr/HR-Analytics-Dashboard-Using---Tableau/assets/157566167/da5c7b37-b0c6-43b6-a84a-aad0ae677eb9)# HR-Analytics-Dashboard-Using-Tableau
 
 <p align="center">
   <img width="700" height="170" src="https://user-images.githubusercontent.com/124501309/227756844-5972e656-be9a-4c97-a0a0-ef5aae750a12.png">
@@ -75,8 +75,7 @@ This includes trendline and target line to help HR managers track progress towar
 
     ## DASHBOARD:
 
-    ![HR Dashboard ](https://user-images.githubusercontent.com/124501309/227755419-ff277f69-fd14-4d51-b85f-973c25a6219f.png)
-
+    [hr dashboard image](https://github.com/AnupamkumariAkr/HR-Analytics-Dashboard-Using---Tableau/assets/157566167/6f7f4e20-9104-47b6-b8a4-acd2a7910bdf)                                   
 
 
 
